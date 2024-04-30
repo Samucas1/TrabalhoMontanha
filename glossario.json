@@ -1,0 +1,22 @@
+[
+    {
+      "termo": "JavaScript",
+      "definicao": "Uma linguagem de programação de alto nível, interpretada e orientada a objetos, utilizada principalmente para tornar as páginas web interativas."
+    },
+    {
+      "termo": "HTML",
+      "definicao": "Linguagem de marcação usada para estruturar o conteúdo de uma página web."
+    },
+    {
+      "termo": "CSS",
+      "definicao": "Linguagem de estilo usada para estilizar o conteúdo HTML."
+    },
+    {
+      "termo": "DOM",
+      "definicao": "Document Object Model (Modelo de Objetos do Documento) é uma interface de programação para documentos HTML e XML. Ele representa a página web de forma estruturada, permitindo o acesso e manipulação do conteúdo."
+    },
+    {
+      "termo": "API",
+      "definicao": "Interface de Programação de Aplicações, que define métodos e padrões de comunicação entre componentes de software."
+    }
+  ]
